@@ -2,18 +2,16 @@ from dotenv import load_dotenv
 import os
 import shutil
 from langchain_chroma import Chroma
-from langchain_community.embeddings import OllamaEmbeddings
+from langchain_openai import OpenAIEmbeddings  # Changed to OpenAI
 from langchain_community.document_loaders import TextLoader, DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import TextLoader, UnstructuredMarkdownLoader, DirectoryLoader
 import logging
 
-
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 load_dotenv()
-
 
 # This map now contains the standard filename for each type of data.
 TAG_TO_FILENAME_MAP = {
@@ -28,8 +26,6 @@ TAG_TO_FILENAME_MAP = {
     "sponsor visibility": "sponsor_visibility.txt",
     "General Query": "General_Query.txt"
 }
-
-
 
 FRANCHISES = ['Delhi_Capitals', 'Gujrat_Titans', 'Punjab Kings']
 DATABASE_LOCATION = os.getenv("DATABASE_LOCATION")
@@ -46,7 +42,7 @@ def main():
 
     # Initialized embeddings model
     try:
-        embeddings = OllamaEmbeddings(model=EMBEDDING_MODEL)
+        embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL)  # Changed to OpenAI
         logger.info(f"Embeddings model '{EMBEDDING_MODEL}' initialized successfully.")
     except Exception as e:
         logger.error(f"Fatal: Could not initialize embeddings model. Error: {e}")
@@ -62,7 +58,6 @@ def main():
         # Loop through each tag and its corresponding filename
         for tag, filename in TAG_TO_FILENAME_MAP.items():
             
-        
             # This will create paths like Delhi_Capitals/filename.txt
             file_path = os.path.join(PROJECT_ROOT, franchise, filename)
             
