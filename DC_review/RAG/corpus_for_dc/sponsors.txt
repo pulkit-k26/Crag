@@ -1,0 +1,26 @@
+[SECTION: KIT_MANUFACTURERS_AND_SPONSORS_BY_YEAR]
+- year: 2008 | manufacturer: Adidas | front_sponsor: Hero Honda
+- year: 2009 | manufacturer: Adidas | front_sponsor: Jetking
+- year: 2010 | manufacturer: Adidas | front_sponsor: Idea
+- year: 2011 | manufacturer: Adidas | front_sponsor: Muthoot Group
+- year: 2012 | manufacturer: Adidas | front_sponsor: Muthoot Group
+- year: 2013 | manufacturer: Adidas | front_sponsor: Muthoot Group
+- year: 2014 | manufacturer: Flying Machine | front_sponsor: Quikr
+- year: 2015 | manufacturer: Flying Machine | front_sponsor: Daikin
+- year: 2016 | manufacturer: Shiv Naresh | front_sponsor: Manforce
+- year: 2017 | manufacturer: Shiv Naresh | front_sponsor: Jio
+- year: 2018 | manufacturer: T10 Sports | front_sponsor: NatureFresh
+- year: 2019 | manufacturer: SqadGear | front_sponsor: APL Apollo
+- year: 2020 | manufacturer: JSW | front_sponsor: JSW
+- year: 2021 | manufacturer: Wrogn | front_sponsor: JSW
+- year: 2022 | manufacturer: Wrogn | front_sponsor: Octa
+- year: 2023 | manufacturer: Puma | front_sponsor: DP World
+- year: 2024 | manufacturer: Puma | front_sponsor: Hero FinCorp
+- year: 2025 | manufacturer: Puma | front_sponsor: All Seasons
+
+[SECTION: REVENUE_FROM_SPONSORSHIP]
+Sponsorship_Revenue_2023: ₹120 Cr (~US $14.5M)
+
+[SECTION: TECHNOLOGY_AND_DATA_PARTNERS]
+Data_Partner: Sportradar (Provides academy analytics and grassroots video highlights)
+NFT_Partner_2022: FanCraze (For digital collectibles, VIP perks, and play-to-earn games)

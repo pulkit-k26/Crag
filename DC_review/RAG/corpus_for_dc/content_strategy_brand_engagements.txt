@@ -1,0 +1,36 @@
+[SECTION: CORE_CONTENT_STRATEGY_2025]
+Primary_Approach: Video-First
+Key_Statistic: DC has led the IPL in social video views since 2021.
+Major_Partnership: Viacom18 / JioCinema for exclusive docuseries & interviews.
+Engagement_Model: Year-round engagement encouraged through the official app, not just during the IPL season.
+
+[SECTION: OFFICIAL_APP_STRATEGY]
+App_Name: DC Fan Sabha
+Launch_Year: 2025
+Tagline: “Yahan Fans ki Sarkar Hai”
+Core_Strategy: Build a loyal, year-round community through a five-tier rewards system.
+Exclusive_Content: The app serves as a hub for behind-the-scenes access and community program content.
+
+[SECTION: REVENUE_AND_COMMERCE_STRATEGY]
+Digital-First_Strategy_Impact: Helped double team revenue in 2 years.
+Digital_Income_Sources: Branded content, NFTs, and monetized video views (450M in 2020).
+Merchandise_Market_Status: The overall IPL merchandise sector is down ~10.6%, with apparel orders down 20-25% YoY.
+Counterfeit_Problem: Counterfeits make up 25-30% of the market, hurting official sales.
+Merchandise_Growth_Area: Tier 2/3 cities now account for 30% of demand.
+
+[SECTION: TECHNOLOGY_AND_FUTURE_GROWTH]
+NFTs_and_Blockchain: Partnered with FanCraze in 2022 for digital collectibles. This is considered a key future growth area.
+Fan_Token_Perks: A strategy to offer early access to merchandise and gated content drops to token holders.
+
+[SECTION: REGIONAL_BRAND_ENGAGEMENT]
+Fan_Base_Surge: The Delhi-NCR fan base surged from 23% to 45% during the 2025 season, the biggest regional increase in the IPL.
+Fan_Geography_2025:
+- Delhi–NCR: 40–50%
+- Rest of North India: 20–25%
+- Other Metro Cities: 15–20%
+- Emerging/Intl. Markets: 5–15%
+
+[SECTION: KEY_BRAND_TAKEAWAYS_FOR_CHATBOT]
+- Focus chatbot responses on: KL Rahul, DC Rewards, DC Fan Sabha app, NFTs, and the Delhi-NCR fan surge.
+- Use brand keywords: "dilli," "roar macha," and match hashtags like #dcvgt.
+- Emphasize key content types: Reels, polls, behind-the-scenes videos.

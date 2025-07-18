@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-hub
+librosa
+numpy
+scipy
+matplotlib
+moviepy

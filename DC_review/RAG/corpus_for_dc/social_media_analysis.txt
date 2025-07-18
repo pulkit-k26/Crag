@@ -1,0 +1,19 @@
+[SECTION: SOCIAL_MEDIA_PERFORMANCE]
+Official Channels:
+| Platform        | Followers (2025) | Engagement Rate | Notes                                      |
+|----------------|------------------|------------------|--------------------------------------------|
+| Instagram       | 4.6–4.7M         | ~0.36% avg       | +6.4% growth in 30 days                     |
+| Facebook        | ~9.1M            | N/A              | Highest follower count                      |
+| Twitter (X)     | ~2.5–2.6M        | N/A              |                                            |
+| YouTube         | ~0.87M           | N/A              | Strong long-form engagement                 |
+| Reddit          | ~30k+ (r/delhicapitals) | Highly active | Fans request more timely posts             |
+| Total Reach     | ~16M             |                  | Ranks 7th–8th among IPL teams               |
+
+[SECTION: FAN_FEEDBACK_ON_SOCIAL_MEDIA]
+Criticism: Lack of timely updates & slow content rollout on social channels.
+Reddit_Community_Status: Recently revived with engaged users seeking more interaction and timely posts.
+Recommendation: A dedicated content stream for the WPL team and an improved, more responsive content calendar are needed.
+
+[SECTION: PLATFORMS_USED]
+Primary_Platforms: Instagram, YouTube, Twitter/X
+Notes: Used for real-time match highlights, memes, polls, and other short-form content.

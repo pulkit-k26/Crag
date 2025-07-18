@@ -1,0 +1,71 @@
+[SECTION: TEAM_INFORMATION]
+team_name: Delhi Capitals
+former_name: Delhi Daredevils
+abbreviation: DC
+league: Indian Premier League
+city: New Delhi, India
+founded: 2008
+team_colors: Blue, Red
+official_website: delhicapitals.in
+summary: The Delhi Capitals (formerly Delhi Daredevils) are a professional Twenty20 cricket team based in Delhi. They compete in the Indian Premier League (IPL) and are owned by GMR Group and JSW Sports. They reached their first IPL final in 2020.
+
+[SECTION: OWNERSHIP_AND_MANAGEMENT]
+primary_owners: JSW Sports, GMR Sports
+chairman: Kiran Kumar Grandhi
+team_manager: Siddharth Bhasin
+director_of_cricket: Venugopal Rao
+head_coach: Hemang Badani
+mentor: Kevin Pietersen
+assistant_coach: Matthew Mott
+bowling_coach: Munaf Patel
+fielding_coach_1: Anton Roux
+fielding_coach_2: Gnaneswara Rao
+head_of_scouting: Vijay Bharadwaj
+
+[SECTION: FRANCHISE_HISTORY]
+founding_details: The Delhi team was bought by GMR Group for US$84 million at the inaugural IPL auction on February 20, 2008.
+ownership_change_2018: In March 2018, GMR sold a 50% stake to JSW Sports for ₹550 crore.
+name_change_details: In December 2018, the team name changed from Delhi Daredevils to Delhi Capitals to symbolize Delhi's identity as the capital and power centre of the country.
+recent_acquisition_2024: In 2024, the franchise agreed a deal to buy Hampshire County Cricket Club and a 51% stake in the Hundred team Southern Brave.
+
+[SECTION: HOME_GROUNDS]
+- type: primary | name: Arun Jaitley Cricket Stadium | location: Delhi | capacity: 35200
+- type: secondary | name: ACA–VDCA Cricket Stadium | location: Visakhapatnam | capacity: 27500
+
+[SECTION: TEAM_ANTHEMS]
+- title: Khelo Front Foot Pe | artist: Kailash Kher
+- title: Munday Dilli Ke | year: 2012 | artist: Jaspreet Jasz
+- title: Dhuandaar Dilli | year: 2016 | artist: Sukhwinder Singh
+- title: Dil Dilli hai, ab Dhadkega | year: 2018
+- title: Roar Machaa | year: 2019 | artist: Amit Trivedi
+
+[SECTION: PLAYERS]
+historical_players_summary: Virender Sehwag was the icon player and captain for the first two seasons. Other notable international players include Glenn McGrath, AB de Villiers, Tillakaratne Dilshan, David Warner, Daniel Vettori, Kevin Pietersen, and Mahela Jayawardene.
+current_squad_batters:
+- name: Jake Fraser-McGurk | nationality: Australia
+- name: Ashutosh Sharma | nationality: India
+- name: Faf du Plessis | nationality: South Africa | role: Vice-Captain
+- name: Sameer Rizvi | nationality: India
+- name: Karun Nair | nationality: India
+current_squad_wicket_keepers:
+- name: KL Rahul | nationality: India
+- name: Tristan Stubbs | nationality: South Africa
+- name: Abishek Porel | nationality: India
+- name: Donovan Ferreira | nationality: South Africa
+current_squad_all_rounders:
+- name: Axar Patel | nationality: India | role: Captain
+- name: Vipraj Nigam | nationality: India
+- name: Darshan Nalkande | nationality: India
+- name: Madhav Tiwari | nationality: India
+- name: Manvanth Kumar | nationality: India
+- name: Tripurana Vijay | nationality: India
+- name: Ajay Mandal | nationality: India
+current_squad_pace_bowlers:
+- name: Mitchell Starc | nationality: Australia
+- name: T Natarajan | nationality: India
+- name: Mukesh Kumar | nationality: India
+- name: Mohit Sharma | nationality: India
+- name: Dushmantha Chameera | nationality: Sri Lanka
+- name: Mustafizur Rahman | nationality: Bangladesh
+current_squad_spin_bowlers:
+- name: Kuldeep Yadav | nationality: India

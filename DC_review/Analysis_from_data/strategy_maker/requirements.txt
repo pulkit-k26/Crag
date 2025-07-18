@@ -1,0 +1,1 @@
+Run this script in google colab and get Google_API_Key and SERPAPI_API_KEY and upload the document attached in the folder and can also give images of analysis 

@@ -1,0 +1,26 @@
+[SECTION: HIGH_ENGAGEMENT_CONTENT_INSIGHTS]
+Player_Focus: KL Rahul is the top driver of engagement, followed by Kuldeep Yadav and Sameer Rizvi.
+Hashtags: Match-specific tags (e.g., #dcvgt, #pbksvdc) and emotional brand terms ("dilli", "roar macha") perform best.
+Visual_Style: Action-oriented images and short-form video clips (Reels) are most effective.
+Interactive_Formats: Polls, quizzes, and Q&A sessions consistently drive high user engagement.
+
+[SECTION: FAN_COMMUNITY_PROGRAMS_DC_TOLI]
+Virtual_Engagement_Initiative: "Har Ghar Qila Kotla" - Virtual watch parties created during COVID.
+Live_Events: Zoom-like events with RJs on match days.
+DC_Reporters_Program: Young fans are empowered to create match previews and other fan-led content.
+DCT_Radio: An online radio show featuring local, fan-centric commentary.
+Meet_and_Greets: Both in-person and virtual sessions are held with players like Axar Patel & David Warner.
+
+[SECTION: FAN_ENGAGEMENT_THROUGH_APP]
+App_Name: DC Fan Sabha
+Loyalty_System: DC Rewards, a five-tier system where fans earn points.
+Redeemable_Rewards: Points can be redeemed for free match tickets and VIP meet-and-greets.
+Fan-Controlled_Content: Fans vote directly on the type of content the team produces.
+User-Generated_Campaigns: Examples include "Dilli ka Captain" contest and various meme contests.
+
+[SECTION: MERCHANDISE_ENGAGEMENT_STRATEGIES]
+- Strategy 1: Use quizzes to offer merchandise discounts.
+- Strategy 2: Create limited-edition product drops tied to player content.
+- Strategy 3: Partner with regional meme pages to create unique, local designs.
+- Strategy 4: Implement AR (Augmented Reality) try-on filters with an instant purchase option.
+- Strategy 5: Use fan tokens to provide perks like early access and gated merchandise drops.

@@ -1,0 +1,19 @@
+[SECTION: CAPTAINS_HISTORY_AND_PERFORMANCE]
+- player: Virender Sehwag | from: 2008 | to: 2012 | best_result: Semi-finalist (2008, 2009)
+- player: Gautam Gambhir | from: 2009 | to: 2018 | best_result: 5th (2010)
+- player: Mahela Jayawardene | from: 2012 | to: 2013 | best_result: Playoffs (2012)
+- player: David Warner | from: 2013 | to: 2023 | best_result: 9th (2023)
+- player: Kevin Pietersen | from: 2014 | to: 2014 | best_result: 9th (2023)
+- player: JP Duminy | from: 2015 | to: 2016 | best_result: 7th (2015)
+- player: Zaheer Khan | from: 2016 | to: 2017 | best_result: 6th (2016, 2017)
+- player: Shreyas Iyer | from: 2018 | to: 2020 | best_result: Runners-up (2020)
+- player: Rishabh Pant | from: 2021 | to: 2024 | best_result: Playoffs (2021)
+- player: Axar Patel | from: 2024 | to: 2025 | best_result: League Stage (2025)
+
+[SECTION: PLAYER_IMPACT_ON_ENGAGEMENT]
+Top_Engagement_Driver: KL Rahul
+Other_High-Impact_Players: Kuldeep Yadav, Sameer Rizvi
+
+[SECTION: PLAYER-RELATED_CHALLENGES_2025_SEASON]
+Challenge_1: Axar Patel’s absence requires a narrative adjustment around team leadership.
+Challenge_2: KL Rahul’s performance fluctuations require a content focus on milestones and team unity rather than just match results.

@@ -1,0 +1,4 @@
+selenium
+requests
+
+Also install ChromeDriver from internet

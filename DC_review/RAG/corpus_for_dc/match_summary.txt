@@ -1,0 +1,34 @@
+[SECTION: OVERALL_SEASON_PERFORMANCE_IPL]
+- year: 2008 | final_standing: Semi-finalists
+- year: 2009 | final_standing: Semi-finalists
+- year: 2010 | final_standing: League stage
+- year: 2011 | final_standing: League stage
+- year: 2012 | final_standing: Playoffs
+- year: 2013 | final_standing: League stage
+- year: 2014 | final_standing: League stage
+- year: 2015 | final_standing: League stage
+- year: 2016 | final_standing: League stage
+- year: 2017 | final_standing: League stage
+- year: 2018 | final_standing: League stage
+- year: 2019 | final_standing: Playoffs
+- year: 2020 | final_standing: Runners-up
+- year: 2021 | final_standing: Playoffs
+- year: 2022 | final_standing: League stage
+- year: 2023 | final_standing: League stage
+- year: 2024 | final_standing: League stage
+- year: 2025 | final_standing: League stage
+
+[SECTION: OVERALL_SEASON_PERFORMANCE_CLT20]
+- year: 2009 | final_standing: League stage
+- year: 2012 | final_standing: Semi-finalists
+
+[SECTION: HEAD_TO_HEAD_RECORD_AGAINST_OPPONENTS]
+- opponent: Chennai Super Kings | played: 31 | won: 12 | lost: 19 | win_percentage: 38.71%
+- opponent: Gujarat Titans | played: 5 | won: 3 | lost: 2 | win_percentage: 60.00%
+- opponent: Deccan Chargers | played: 11 | won: 7 | lost: 4 | win_percentage: 63.63%
+- opponent: Kolkata Knight Riders | played: 34 | won: 15 | lost: 18 | win_percentage: 44.11%
+- opponent: Mumbai Indians | played: 36 | won: 16 | lost: 20 | win_percentage: 44.44%
+- opponent: Punjab Kings | played: 33 | won: 15 | lost: 17 | win_percentage: 45.45%
+- opponent: Rajasthan Royals | played: 30 | won: 15 | lost: 15 | win_percentage: 50.00%
+- opponent: Royal Challengers Bengaluru | played: 33 | won: 12 | lost: 19 | win_percentage: 36.36%
+- opponent: Sunrisers Hyderabad | played: 25 | won: 11 | lost: 13 | win_percentage: 44.00%
