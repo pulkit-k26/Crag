@@ -96,92 +96,31 @@ def get_tag_to_prompt_map(franchise_name: str) -> dict:
         "General Query": f"You are a comprehensive team analyst for {franchise_name}. Answer high-level or multi-faceted queries using the provided context.",
     }
 
-def set_background(image_file):
-    """
-    Sets a background image and applies custom CSS to the Streamlit app.
-    This version includes fixes for both dropdown and error message visibility.
-    """
-    with open(image_file, "rb") as f:
+def set_background(image_file_name):
+    # Ensure the path is relative to this file (agent.py)
+    dir_path = os.path.dirname(os.path.realpath(__file__))  # path of agent.py
+    image_path = os.path.join(dir_path, image_file_name)
+
+    if not os.path.exists(image_path):
+        st.warning(f"Background image not found at: {image_path}")
+        return
+
+    with open(image_path, "rb") as f:
         data = f.read()
     encoded = base64.b64encode(data).decode()
 
-    # CSS with fixes for dropdown and the new fix for error messages
-    css = f"""
-    <style>
-    /* Basic app styling with background image */
-    [data-testid="stAppViewContainer"],
-    .stApp {{
-        background-image: url("data:image/png;base64,{encoded}") !important;
-        background-size: cover !important;
-        background-repeat: no-repeat !important;
-        background-position: center !important;
-        background-attachment: fixed !important;
-    }}
+    st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-image: url("data:image/png;base64,{encoded}");
+            background-size: cover;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
 
-    [data-testid="stHeader"] {{
-        background: rgba(0,0,0,0) !important;
-    }}
-
-    /* General text color */
-    h1, h2, h3, h4, h5, h6, p, label, .stMarkdown {{
-        color: white !important;
-    }}
-
-    /* --- ERROR MESSAGE VISIBILITY FIX --- */
-    /* This targets the Streamlit exception/error box */
-    [data-testid="stException"] {{
-        background-color: rgba(40, 0, 0, 0.8) !important; /* Dark red semi-transparent background */
-        border: 1px solid #FF4B4B !important;
-        border-radius: 0.5rem !important;
-    }}
-
-    /* This targets all text inside the error box to make it white and readable */
-    [data-testid="stException"] * {{
-        color: white !important;
-    }}
-    /* --- END OF FIX --- */
-
-    /* Style for the main selectbox component (when closed) */
-    .stSelectbox > div[data-baseweb="select"] > div {{
-        background-color: rgba(0,0,0,0.7) !important;
-        border: 1px solid rgba(255,255,255,0.3) !important;
-        color: white !important;
-    }}
-
-    /* Dropdown menu fix */
-    div[data-baseweb="popover"] ul {{
-        background-color: #222222 !important;
-        border: 1px solid rgba(255,255,255,0.3) !important;
-    }}
-
-    div[data-baseweb="popover"] ul li {{
-        color: white !important;
-        background-color: transparent !important;
-    }}
-
-    div[data-baseweb="popover"] ul li:hover {{
-        background-color: rgba(255, 255, 255, 0.2) !important;
-    }}
-
-    div[data-baseweb="popover"] ul li[aria-selected="true"] {{
-        background-color: rgba(255, 255, 255, 0.4) !important;
-    }}
-
-    /* Other component styles */
-    .stChatInput > div > div {{
-        background-color: rgba(0,0,0,0.5) !important;
-        color: white !important;
-        border: 1px solid rgba(255,255,255,0.3) !important;
-    }}
-
-    .stChatMessage {{
-        background-color: rgba(0,0,0,0.3) !important;
-        color: white !important;
-        border-radius: 10px !important;
-    }}
-    </style>
-    """
-    st.markdown(css, unsafe_allow_html=True)
 
 
 def get_svg_content(file_path):
