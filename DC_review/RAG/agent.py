@@ -1,4 +1,4 @@
-__import__('pysqlite3')
+_import_('pysqlite3')
 import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from streamlit.components.v1 import html
@@ -195,7 +195,7 @@ def get_svg_content(file_path):
 # Load environment variables
 load_dotenv()
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     st.set_page_config(page_title="GameSage AI")
     set_background("final_bg_blurred_more.png")
 
