@@ -197,7 +197,7 @@ load_dotenv()
 
 if __name__ == "__main__":
     st.set_page_config(page_title="GameSage AI")
-    set_background("final_bg_blurred_more.png")
+    set_background("DC_review/RAG/final_bg_blurred_more.png")
 
     svg_logo_path = "original_gamesage_logo.svg"
     svg_content = get_svg_content(svg_logo_path)
