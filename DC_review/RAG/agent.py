@@ -195,7 +195,7 @@ def get_svg_content(file_path):
 # Load environment variables
 load_dotenv()
 
-if name == "__main__":
+if __name__ == "__main__":
     st.set_page_config(page_title="GameSage AI")
     set_background("final_bg_blurred_more.png")
 
