@@ -204,7 +204,7 @@ if __name__ == "__main__":
     col1, col2 = st.columns([2, 10])
     with col1:
         if svg_content:
-            st.image("original_gamesage_logo.svg", width=120)
+            st.image("DC_review/RAG/original_gamesage_logo.svg", width=120)
     with col2:
         st.title("𝙶𝚊𝚖𝚎𝚂𝚊g𝚎 𝙰𝙸 ◔_◔")
     st.divider()
